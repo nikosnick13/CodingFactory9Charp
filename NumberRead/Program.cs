@@ -1,5 +1,7 @@
 ﻿using static System.Console;
-
+/// <summary>
+/// a simple console application that reads two decimal numbers from the user and prints them formatted to the console.
+/// </summary>
 namespace NumberRead
 {
     internal class Program

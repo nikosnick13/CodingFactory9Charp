@@ -3,7 +3,7 @@ namespace HelloWorld;
 /// <summary>
 /// This is the first program that prints "Hello, World!" to the console.
 /// It serves as a simple example of a C# console application.
-/// </summary>
+/// </summary> 
 internal class Program
 {
     static void Main(string[] args)

@@ -9,7 +9,7 @@
         {
             int num = 1;
             Console.WriteLine("Num = {0}", num); //placeholder
-            Console.WriteLine($"Num = {num}");   //interpolation
+            Console.WriteLine($"Num = {num}");   //interpolation 
         }
     }
 }

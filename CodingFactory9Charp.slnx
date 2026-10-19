@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="CarRendApp/CarRentApp.csproj" />
+  <Project Path="DoWhileApp/DoWhileApp.csproj" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="ifCases/ifCases.csproj" />

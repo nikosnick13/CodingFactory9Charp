@@ -1,13 +1,16 @@
 <Solution>
   <Project Path="CarRendApp/CarRentApp.csproj" />
+  <Project Path="CitiesFor/CitiesFor.csproj" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="ifCases/ifCases.csproj" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
+  <Project Path="MethodApp/MethodApp.csproj" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVt/ProductsVat.csproj" />
+  <Project Path="SwapApp/SwapApp.csproj" />
   <Project Path="SwichApp/SwichApp.csproj" />
   <Project Path="TravelingApp/TravelingApp.csproj" />
   <Project Path="WhileApp/WhileApp.csproj" />

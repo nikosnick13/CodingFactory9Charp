@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="ArrayApp/ArrayApp.csproj" />
   <Project Path="CarRendApp/CarRentApp.csproj" />
   <Project Path="CitiesFor/CitiesFor.csproj" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" />
+  <Project Path="ElectricityCalculator/ElectricityCalculator.csproj" Id="f9c7e5bf-2416-4b0e-bf81-d9205005e824" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="ifCases/ifCases.csproj" />
@@ -10,6 +12,7 @@
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVt/ProductsVat.csproj" />
+  <Project Path="SalaryCalculator/SalaryCalculator.csproj" Id="7ca8774f-416d-4a44-9ce2-305e19110e33" />
   <Project Path="SwapApp/SwapApp.csproj" />
   <Project Path="SwichApp/SwichApp.csproj" />
   <Project Path="TravelingApp/TravelingApp.csproj" />
